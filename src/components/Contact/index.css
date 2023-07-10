@@ -1,0 +1,14 @@
+/* Write your CSS code here */
+/* Write your CSS code here */
+
+.cont-cont {
+  height: 70vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.cont-img {
+  /* height: 100px; */
+  width: 200px;
+}

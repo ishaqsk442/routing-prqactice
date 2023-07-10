@@ -1,0 +1,40 @@
+/* Write your CSS code here */
+.nav-cont {
+  /* list-style-type: none; */
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: 70px;
+  width: 100%;
+  background-color: white;
+}
+
+.logo-cont {
+  justify-content: center;
+  align-items: center;
+  margin-left: 30px;
+  display: flex;
+  flex-direction: row;
+}
+.logo-img {
+  height: 30px;
+  width: 30px;
+}
+
+.ul-list {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+}
+.each-list {
+  /* color: #12022f; */
+  margin-right: 5px;
+  margin-left: 5px;
+}
+
+.text-color {
+  font-weight: 500;
+  font-size: 20px;
+  color: #12022f;
+}

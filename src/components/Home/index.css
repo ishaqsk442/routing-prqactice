@@ -1,0 +1,14 @@
+/* Write your CSS code here */
+
+.home-cont {
+  height: 70vh;
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.home-img {
+  /* height: 900px; */
+  width: 200px;
+}
